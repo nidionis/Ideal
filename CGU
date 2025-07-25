@@ -1,0 +1,66 @@
+
+Prototype de Conditions Générales d’Utilisation (CGU) / Constitution d'une cryptomonnaie fondée sur le temps de travail
+
+Ce document constitue la charte fondamentale régissant l’usage et la gouvernance d’une cryptomonnaie et de ses contrats intelligents, dont la valeur est fondée sur le temps de production, et sa part au collectif.
+
+Ce système prend également en considération le droit à un usage mesuré, libre et autodéterminé de son temps de travail.
+
+Article 1 – Acceptation des CGU
+
+L’utilisation de cette cryptomonnaie vaut acceptation pleine et entière des présentes CGU. En cas de désaccord, il est toujours possible de convertir (ou “fonder”) la cryptomonnaie dans une autre firme, c’est-à-dire une structure contractuelle alternative partageant une même base technique.
+
+Article 2 – Identification et responsabilité
+
+Les utilisateurs doivent disposer d’un moyen d’identification fiable, leur permettant d’assumer leurs engagements. Cette modalité peut varier selon la firme d’appartenance.
+La clef publique (quantique-proof) constitue le minimum requis pour la collecte d’informations personnelles, et doit être associée à une identification selon la responsabilite que la firme souhaite prendre : email, ADN, biométrie, justificatif de domicile, pièce d'identité, etc.
+Une adresse de portefeuille (wallet) doit également être fournie, afin de pouvoir y transférer la valeur correspondant à la part détenue dans la firme.
+
+Article 3 – Modalités de contribution
+
+Le projet valorise l’esprit du faire pour soi, pour les autres, selon se valeur reconnue.
+La mesure du temps à deux ou plus permettant une auto-autorité distribuée.
+Un lien vocal ou vidéo trés régulier (au moins 1 par journee de travail partage) est un minimum requis à défaut de présentiel.
+
+Article 4 – Interdictions et politiques internes
+
+Toute interdiction décidée au sein d’une firme doit être nécessaire, et justifiée selon les politiques internes.
+La permission prévaut sur l’interdiction.
+
+Article 5 – Inclusion dans une firme
+
+Cette decision est a soumettre au vote (cf Gouvernance)
+
+L’adhésion à une firme se fait par parrainage : au moins un membre de la firme doit avoir rencontré physiquement (sans intermédiation technologique) la personne à intégrer au moins une fois dans sa vie.
+
+Article 6 – Authentification
+
+Le mode d’authentification est un élément essentiel, qui doit être déclaré, vérifiable et effectivement vérifié.
+L’utilisateur s’engage à rester contactable par l’un des moyens proposés, afin d’assurer le bon fonctionnement du consensus et de la gouvernance.
+
+Article 7 – Sanctions
+
+Selon le système de gouvernance (qui ici fait office de justice), peut etre prononcé:
+- les bannissements.
+- les saisies.
+- le reste est laissé aux firmes.
+
+Article 8 – Gouvernance et modification des CGU
+
+Toute décision appliquée sur le service, se fait via un vote de type Condorcet, sécurisé par une verification possible par chaque utilisateur de son vote pris en compte.
+Pour cela un identifiant secret est généré par une la clef publique hashee par une clef de vote. La clef de vote sera utilise pour annuler le vote sans révéler son identité
+Les résultats sont chainés/scellée par les clefs des administrés(/et)administrateurs.
+Un second tour permet de neutraliser les suffrages exprimés par des participants considerant leurs choix corrompus. (ex: en prouvant qu'ils ont leur clef de vote)
+Les votes pirate/piratés (annulés) sont comptés blanc et sont pris en compte comme d'opposition. si malgres ce taux le meme choix reste absolument majoritaire, alors la decision s'applique (banissement, integration, saisie, modification des CGU, choix collectifs)
+
+Pour qu'un vote soit valide, tous les utilisateurs de la firme doivent avoir été accusé reception (meme de maniere automatisee).
+Le vote blanc (d'opposition) est voté avec annulation, abstention n'est pas compté.
+La durée du scrutin devra être suffisamment confortable (example: 1 semaine), et ne pas s'opposer a la diponibilité des individus
+Les modalités pour y arriver sont laissées aux firmes
+
+Article 9 – Contrats individuels
+
+Il est possible d’établir des contrats bilatéraux prévoyant un ratio de rendement entre deux membres, ou firmes.
+Dans ce cas, la valeur générée est répartie proportionnellement.
+Des economistes preconisent de ne pas pouvoir gagner plus de 6 fois plus que le salaire minimum.
+À titre d’exemple, un ratio de 2/3 contre 1/3 signifie que l’un perçoit le double de l’autre.
+
